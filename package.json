@@ -1,0 +1,22 @@
+{
+  "name": "edtf-to-text",
+  "version": "0.0.1",
+  "description": "Renders opionated human readable text from edtf (Extended Date/Time Format - ISO 8601-2) values. Based on an ISO draft from the Library of Congress and the 'edtf' module implementation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnggge/edtf-to-text.git"
+  },
+  "keywords": [
+    "edtf"
+  ],
+  "author": "Benjamin Goegge",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/bnggge/edtf-to-text/issues"
+  },
+  "homepage": "https://github.com/bnggge/edtf-to-text#readme"
+}
